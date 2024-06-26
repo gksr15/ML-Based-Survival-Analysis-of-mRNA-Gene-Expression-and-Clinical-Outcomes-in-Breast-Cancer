@@ -6,7 +6,7 @@ This project investigates the relationship between mRNA gene expression data and
 
 ## Problem Statement
 
-### Question 3: Classification of Breast Cancer Subtypes
+### Classification of Breast Cancer Subtypes
 - **Objective**: To determine how changes in the standardized values (z-scores) of mRNA expression levels contribute to the classification of breast cancer subtypes based on PAM50 and Claudin-Low classifications. Identify key molecular markers characterizing these subtypes.
 - **Dataset**: METABRIC dataset from Kaggle containing clinical, pathological, and genetic mutation data of breast cancer patients.
 
