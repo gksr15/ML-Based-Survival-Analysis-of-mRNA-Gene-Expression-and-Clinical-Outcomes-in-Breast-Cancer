@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-This project investigates the relationship between mRNA gene expression data and clinical outcomes in breast cancer using machine learning techniques. The primary aim is to analyze how alterations in mRNA expression levels contribute to the classification of breast cancer subtypes based on PAM50 and Claudin-Low classifications, and identify key molecular markers characterizing these subtypes.
+This project investigates the relationship between mRNA gene expression data and clinical outcomes in breast cancer using machine learning techniques. The primary aim is to analyze how alterations in mRNA expression levels contribute to the classification of patient vital status and identify their survival rate.
 
 ## Problem Statement
 
 ### Classification of Breast Cancer Subtypes
-- **Objective**: To determine how changes in the standardized values (z-scores) of mRNA expression levels contribute to the classification of breast cancer subtypes based on PAM50 and Claudin-Low classifications. Identify key molecular markers characterizing these subtypes.
+- **Objective**: To determine how changes in the standardized values (z-scores) of mRNA expression levels contribute to the classification of patient status. Identify the survival rate of such patients as well.
 - **Dataset**: METABRIC dataset from Kaggle containing clinical, pathological, and genetic mutation data of breast cancer patients.
 
 ## Project Structure
